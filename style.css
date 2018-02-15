@@ -22,12 +22,12 @@ h2 {
    text-align: center;
 }
 
-picture {
+div {
    display: block;
    text-align: center;
 }
 
-picture p {
+div p {
    font-size: 14px;
    margin: 0;
 }
