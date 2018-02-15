@@ -38,6 +38,8 @@ div a {
 }
 
 a {
+   border-bottom: 1px solid #f6879b;
    color: #ccc;
+   padding-bottom: 3px;
    text-decoration: none;
 }
