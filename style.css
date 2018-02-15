@@ -43,3 +43,7 @@ a {
    padding-bottom: 3px;
    text-decoration: none;
 }
+
+li {
+   margin: 6px;
+}
