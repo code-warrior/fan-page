@@ -1,3 +1,3 @@
-# Fan Page Examples
+# ode-Warrior Fan Page Examples
 
 See the various branches for examples
